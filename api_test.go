@@ -8,8 +8,8 @@ import (
 )
 
 const (
-	testAPIToken = "7fC3atWGdK7u9g8oNF9GpokfyJRHSbauBk2xWBRZ754y9xF4UyeeMFawbVo7s9XKzDdcVELgSGY5hpPukNSyY9C69h61xr9CGafo"
-	apiId        = "c5fc8942-813a-49c2-a222-3cbec0ae4ebd"
+	testAPIToken = ""
+	apiId        = ""
 )
 
 func TestAPI(t *testing.T) {
